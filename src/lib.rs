@@ -1,6 +1,6 @@
 
 pub fn sumu32(a: u32,b:u32) -> u32{
-    return a+b
+    return a+b+1
 }
 
 #[cfg(test)]
